@@ -1,10 +1,9 @@
 ---
 name: moral-responsibility
-description: A skill for refusing to outsource responsibility to systems, circumstances,
-  history, or authority - insisting that individual moral agency cannot be delegated.
+description: A skill for refusing to outsource responsibility to systems, circumstances, history, or authority - insisting that individual moral agency cannot be delegated.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - moral-responsibility
